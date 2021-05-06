@@ -1,0 +1,9 @@
+.views{
+    width: 54px;
+    height: 33px;
+    border-radius: 5px;
+    background-color: #ff7054;
+    text-align: center;
+    padding: 4px;
+    margin: auto;
+}
